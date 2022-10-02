@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on: web developer \
 🌱 I’m currently learning: nextjs \
-📫 How to reach me: alyson.mota.f@gmail.com
+📫 How to reach me: alyson.mota.contatct@gmail.com
 
 ### Languages & Technologies
 <div>
